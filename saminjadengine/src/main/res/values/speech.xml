@@ -1,0 +1,14 @@
+<resources>
+
+    <string name = "speech_intent_extra_fa">fa</string >
+    <string name = "speech_prompt">لطفاً صحبت کنید</string>
+    <string name = "speech_intent_extra_lang">android.speech.extra.LANGUAGE</string >
+    <string name = "speech_intent_extra_prompt">android.speech.extra.PROMPT</string >
+    <string name = "speech_intent_action">android.speech.action.RECOGNIZE_SPEECH</string >
+    <string name = "speech_intent_extra_lang_ref">android.speech.extra.LANGUAGE_PREFERENCE</string >
+    <string name = "speech_intent_extra_lang_ref_only">android.speech.extra.ONLY_RETURN_LANGUAGE_PREFERENCE</string >
+    <string name = "speech_not_supported">متاسفانه دستگاه شما ورودی صدا را پشتیبانی نمی کند</string>
+
+
+</resources>
+

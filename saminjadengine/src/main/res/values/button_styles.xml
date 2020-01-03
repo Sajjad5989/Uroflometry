@@ -1,0 +1,54 @@
+<resources >
+
+
+    <style name = "NegativeFlatButton" parent = "Theme.AppCompat.Light">
+        <item name = "android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item >
+        <item name = "colorControlHighlight">@color/red_900</item >
+        <item name = "colorAccent">@color/red_500</item >
+    </style >
+
+    <style name = "NegativeButton" parent = "Theme.AppCompat">
+        <item name = "colorButtonNormal">@color/red_900</item >
+        <item name = "colorControlHighlight">@color/red_500</item >
+    </style >
+
+    <style name = "PositiveFlatButton" parent = "Theme.AppCompat.Light">
+        <item name = "android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item >
+        <item name = "colorControlHighlight">@color/green_500</item >
+        <item name = "colorAccent">@color/green_900</item >
+        <item name = "android:padding">@dimen/size_2_dp</item >
+    </style >
+
+    <style name = "PositiveButton" parent = "Theme.AppCompat">
+        <item name = "colorButtonNormal">@color/green_500</item >
+        <item name = "colorControlHighlight">@color/green_900</item >
+        <item name = "android:padding">@dimen/size_2_dp</item >
+    </style >
+
+
+    <style name = "BlueFlatButton" parent = "Theme.AppCompat.Light">
+        <item name = "android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item >
+        <item name = "colorControlHighlight">@color/blue_900</item >
+        <item name = "colorAccent">@color/blue_500</item >
+    </style >
+
+    <style name = "BlueButton" parent = "Theme.AppCompat">
+        <item name = "colorButtonNormal">@color/blue_500</item >
+        <item name = "colorControlHighlight">@color/blue_900</item >
+    </style >
+
+    <style name = "DarkFlatButton" parent = "Theme.AppCompat.Light">
+        <item name = "android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item >
+        <item name = "colorControlHighlight">@color/grey_900</item >
+        <item name = "colorAccent">@color/grey_500</item >
+        <item name = "android:padding">@dimen/size_2_dp</item >
+    </style >
+
+    <style name = "DarkButton" parent = "Theme.AppCompat">
+        <item name = "colorButtonNormal">@color/grey_500</item >
+        <item name = "colorControlHighlight">@color/grey_900</item >
+        <item name = "android:padding">@dimen/size_2_dp</item >
+    </style >
+
+
+</resources >

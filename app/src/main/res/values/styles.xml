@@ -1,0 +1,40 @@
+<resources>
+
+    <style name = "MaterialTheme" parent = "ParentMaterialTheme">
+        <item name = "android:fontFamily">@font/ir_yekan_medium</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name = "ParentMaterialTheme" parent = "Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name = "colorPrimary">@color/colorPrimaryDark</item>
+        <item name = "colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name = "colorAccent">@color/colorAccent</item>
+
+        <item name = "android:fontFamily">@font/ir_yekan_medium</item>
+    </style>
+
+
+    <style name = "MaterialTheme.AppBarOverlay" parent = "ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name = "colorPrimary">@color/colorPrimaryDark</item>
+        <item name = "colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name = "colorAccent">@color/colorAccent</item>
+
+        <item name = "android:fontFamily">@font/ir_yekan_medium</item>
+    </style>
+
+    <style name = "MaterialTheme.PopupOverlay" parent = "ThemeOverlay.AppCompat.Light">
+        <item name = "android:textColor">@color/white</item>
+        <item name = "android:fontFamily">@font/ir_yekan_medium</item>
+    </style>
+
+
+
+    <style name = "smallRatingBar" parent = "Widget.AppCompat.RatingBar.Small">
+        <item name = "colorControlNormal">#c4c4c4</item>
+        <item name = "colorControlActivated">@color/red_800</item>
+    </style>
+
+
+</resources>

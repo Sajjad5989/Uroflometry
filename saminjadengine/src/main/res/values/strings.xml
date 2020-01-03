@@ -1,0 +1,62 @@
+<resources>
+
+    <string name = "app_name">SareyhoonEngine</string>
+
+
+    <string name = "all_string_next">بعدی</string>
+    <string name = "all_string_previous">قبلی</string>
+    <string name = "all_string_lets_start">شروع به کار با الو بازیافت</string>
+    <string name = "all_string_plz_wait">لطفاً منتظر بمانید…</string>
+
+    <string name = "all_string_start_add_to_basket">در حال افزودن به سبد خرید</string>
+
+    <string name = "all_string_is_empty">سبد خرید شما خالی است</string>
+    <string name = "all_string_no_request">شما هیچ درخواستی را ثبت نکرده اید</string>
+    <string name = "all_string_no_fav">شما درخواست مورد علاقه ای ندارید</string>
+
+    <string name = "all_string_yes">بله</string>
+    <string name = "all_string_no">خیر</string>
+
+    <string name = "all_string_yes_exit">بله، خارج می شوم</string>
+    <string name = "all_string_yes_do">بله، مطمئنم</string>
+    <string name = "all_string_no_do_not">نه، منصرف شدم</string>
+    <string name = "all_string_cancel">منصرف شدم</string>
+    <string name = "all_string_dialog_del">بله، حذف می کنم</string>
+    <string name = "all_string_del_simple">حذف</string>
+
+    <string name = "all_row">ردیف</string>
+    <string name = "all_search_result">نتایج جستجو</string>
+    <string name = "all_sum">مجموع قیمت</string>
+    <string name = "all_price_sum_pay">قابل پرداخت</string>
+    <string name = "all_sum_last">حدود قیمت</string>
+    <string name = "all_price_unit">تومان</string>
+    <string name = "all_price_caption_sum">جمع کل</string>
+    <string name = "all_price_caption_sum_payable">جمع کل قابل پرداخت</string>
+
+    <string name = "all_string_remove_success">عملیات حذف، با موفقیت انجام شد</string>
+
+
+    <string name = "all_string_internet_connect">اتصال به اینترنت</string>
+    <string name = "all_string_internet_retry">تلاش مجدد</string>
+    <string name = "all_string_internet_finish">خروج</string>
+
+    <string name = "all_string_does_not_have">ندارد</string>
+
+
+    <string name = "all_string_data_reception_error">دریافت اطلاعات امکان پذیر نیست</string>
+
+
+    <string name = "internet_checking_title">دستگاه شما به اینترنت متصل نیست</string>
+    <string name = "internet_checking_body">اتصال به اینترنت یکی از الزامات می باشد. خواهشمندیم برای ادامه کار به اینترنت متصل شوید</string>
+
+
+    <string name = "text_dialog_number_reception_accept">تأیید مقدار یا وزن</string>
+    <string name = "text_dialog_number_reception_cancel">انصراف</string>
+    <string name = "text_dialog_number_reception_desc">لطفاً مقدار یا وزن کالا را در این جا وارد کنید</string>
+    <string name = "text_dialog_number_reception_title">ورود مقدار یا وزن کالا</string>
+
+
+    <string name = "text_format_dialog_number_current_value">مقدار فعلی %d  %s می باشد</string>
+
+</resources>
+

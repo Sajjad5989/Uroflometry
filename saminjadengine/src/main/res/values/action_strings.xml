@@ -1,0 +1,4 @@
+<resources>
+    <string name = "wi_fi_action">android.settings.WIFI_SETTINGS</string>
+</resources>
+

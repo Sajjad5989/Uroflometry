@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    LABEL STYLE-->
+    <style name = "form_label_style">
+        <item name = "android:layout_width">wrap_content</item>
+        <item name = "android:layout_height">wrap_content</item>
+        <item name = "android:fontFamily">@font/ir_yekan_regular</item>
+        <item name = "android:layout_marginTop">@dimen/size_8_dp</item>
+        <item name = "android:gravity">start</item>
+        <item name = "android:padding">@dimen/size_4_dp</item>
+        <item name = "android:textColor">@color/grey_800</item>
+        <item name = "android:textSize">@dimen/text_size_12_sp</item>
+    </style>
+
+    <style name = "form_label_style_desc" parent = "form_label_style">
+        <item name = "android:layout_marginTop">@dimen/size_0_dp</item>
+        <item name = "android:textColor">@color/grey_500</item>
+        <item name = "android:textSize">@dimen/text_size_10_sp</item>
+    </style>
+
+
+    <!--    EDIT STYLE-->
+    <style name = "form_edit_simple_text_style">
+        <item name = "android:layout_width">match_parent</item>
+        <item name = "android:layout_height">wrap_content</item>
+        <item name = "android:background">@drawable/input_edits_background</item>
+        <item name = "android:fontFamily">@font/ir_yekan_regular</item>
+        <item name = "android:inputType">textPersonName</item>
+        <item name = "android:maxLength">100</item>
+        <item name = "android:gravity">start</item>
+        <item name = "android:padding">@dimen/size_8_dp</item>
+        <item name = "android:textColor">@color/red_800</item>
+        <item name = "android:textSize">@dimen/text_size_18_sp</item>
+    </style>
+
+
+</resources>
